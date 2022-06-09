@@ -5,9 +5,9 @@ on:
   - workflow_dispatch
 jobs:
   build:
-    runs-on: ubuntu-20.04
+    runs-on: ubuntu-latest
     container:
-      image: zmkfirmware/zmk-build-arm:3.0
+      image: zmkfirmware/zmk-build-arm:stable
     strategy:
       fail-fast: false
       matrix:
@@ -22,10 +22,10 @@ jobs:
           cache-name: cache-zephyr-modules
         with:
           path: |
-            bootloader/
             modules/
             tools/
             zephyr/
+            bootloader/
             zmk/
           key: ${{ runner.os }}-build-${{ env.cache-name }}-${{ hashFiles('config/west.yml') }}
           restore-keys: |
