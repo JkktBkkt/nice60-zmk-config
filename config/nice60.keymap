@@ -48,7 +48,7 @@
 	&bt BT_SEL 0 &kp LC(F14) &kp LC(F15) &kp LC(F16) &kp LC(F10) &trans  &trans   &trans  &kp UP   &trans &kp LA(PSCRN)   &trans  &trans  &trans 
 	&bt BT_SEL 1  &kp LC(F11) &kp K_VOL_UP &kp K_VOL_DN &kp C_MUTE &trans &kp HOME   &kp LEFT &kp DOWN &kp RIGHT        &trans  &trans    &trans          
 	&bt &trans    &kp LC(F12)  &trans    &trans     &trans   &trans &kp END &trans &trans       &trans   &bootloader             &trans
-	&bt &trans    &trans   &trans                             &trans                             &trans   &trans &kp PSCRN        &kp INS
+	&bt &trans    &trans   &trans                             &trans                             &trans   &trans &kp PSCRN        &kp INSERT
 			>;
 		};
 	};
