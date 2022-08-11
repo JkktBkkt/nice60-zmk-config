@@ -22,49 +22,49 @@
             bindings
                 = <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp A &kp F>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 5 &kp C>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 5 &kp F>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt> 
+		, <&macro_release &kp RALT> 
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 2 &kp 8>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 3 &kp 0 &kp C &kp 4>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 2 &kp 9>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 5 &kp F>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 2 &kp F>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
 		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp A &kp F>
-		, <&macro_press &kp LAlt>
+		, <&macro_press &kp RALT>
 		, <&macro_tap &kp X>
-		, <&macro_release &kp LAlt>
+		, <&macro_release &kp RALT>
                 ;
         };
 	dash: dash {
