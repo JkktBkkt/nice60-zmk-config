@@ -20,31 +20,31 @@
             #binding-cells = <0>;
 	    wait-ms = <10>;
             bindings
-                = <&macro_tap &kp U &kp PLUS>
+                = <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp A &kp F>
 		, <&macro_tap &kp LA(X)>
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 5 &kp C>
 		, <&macro_tap &kp LA(X)>
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 5 &kp F>
 		, <&macro_tap &kp LA(X)> 
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 2 &kp 8>
 		, <&macro_tap &kp LA(X)>
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 3 &kp 0 &kp C &kp 4>
 		, <&macro_tap &kp LA(X)>
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 2 &kp 9>
 		, <&macro_tap &kp LA(X)>
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 5 &kp F>
 		, <&macro_tap &kp LA(X)>
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp 2 &kp F>
 		, <&macro_tap &kp LA(X)>
-		, <&macro_tap &kp U &kp PLUS>
+		, <&macro_tap &kp LS(U) &kp PLUS>
                 , <&macro_tap &kp 0 &kp 0 &kp A &kp F>
 		, <&macro_tap &kp LA(X)>
                 ;
